@@ -12,7 +12,6 @@ The FOV MOD includes the following features:
 - Charfix Included (Helps in Finding Enemies in-game by using custom black and blue character textures)
 - Custom Gun Skins
 - Custom Gun Sounds for Long Hour Gaming
-- Better Seirra By - R7AN and VANCE
 - Every Map is optimized!
 
 
