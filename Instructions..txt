@@ -40,3 +40,4 @@ Contributions to the FOV MOD are welcome and encouraged. If you have any ideas o
 ## Venge T.O.S
 
 The FOV MOD is released under the Venge T.O.S. Please see the [Venge T.O.S](https://venge.io/tos.txt) file for more information.
+- MOROXI
