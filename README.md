@@ -11,7 +11,7 @@ The FOV MOD includes the following features:
 - News Removed
 - Charfix Included (Helps in Finding Enemies in-game by using custom black and blue character textures)
 - Custom Gun Skins
-- Custom Gun Sounds for Long Hour Gaming
+- Custom Gun Sounds for Long Gaming Sessions
 - Every Map is optimized!
 
 
