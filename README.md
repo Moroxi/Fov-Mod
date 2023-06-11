@@ -21,7 +21,7 @@ To install the FOV MOD for Venge.io, follow these steps:
 
 1. Download the latest version of the mod.
 2. Extract the contents of the downloaded zip file to a folder on your computer.
-3. Navigate to Documents\Venge-CLient.
+3. Navigate to Documents\Venge-Client.
 4. Replace the existing folders with the corresponding folders from the FOV MOD you downloaded.
 5. Start the game and enjoy the improved performance in competitive matches and a lag-free experience.
 
@@ -39,5 +39,5 @@ Contributions to the FOV MOD are welcome and encouraged. If you have any ideas o
 
 ## Venge T.O.S
 
-The FOV MOD is released under the Venge T.O.S. Please see the [Venge T.O.S](https://venge.io/tos.txt) file for more information.
-- MOROXI
+The FOV MOD is released under the [Venge T.O.S](https://venge.io/tos.txt). 
+
