@@ -1,13 +1,13 @@
 # FOV MOD - Competitive Performance Enhancement Mod for Venge.io
 
-FOV MOD is a performance enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smooth textures. 
+FOV MOD is a performance enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smoother textures. 
 
 ## Features
 
 The FOV MOD includes the following features:
 
 - Removes certain assets to improve game performance in competitive matches and provide a lag-free experience
-- Replaces certain textures with smooth textures for better performance
+- Replaces certain textures with smoother textures for better performance
 - News Removed
 - Charfix Included (Helps in Finding Enemies in-game by using custom black and blue character textures)
 - Custom Gun Skins
