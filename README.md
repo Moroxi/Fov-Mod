@@ -8,7 +8,7 @@ The FOV MOD includes the following features:
 
 - Removes certain assets to improve game performance in competitive matches and provide a lag-free experience
 - Replaces certain textures with smoother textures for better performance
-- News Removed
+- News/Content Creator Panel in UI Removed
 - Charfix Included (Helps in Finding Enemies in-game by using custom black and blue character textures)
 - Custom Gun Skins
 - Custom Gun Sounds for Long Gaming Sessions
