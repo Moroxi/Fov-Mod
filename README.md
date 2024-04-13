@@ -27,11 +27,11 @@ To install the FOV MOD for Venge.io, follow these steps:
 
 ## Compatibility
 
-The FOV MOD is compatible with the latest version of Venge.io. It has been tested on Windows 10/11 and may work on other operating systems as well.
+The FOV MOD is compatible with the latest version of Venge.io. It has been tested on Windows 10/11 and may also work on other operating systems.
 
 ## Bugs and Issues
 
-If you encounter any bugs or issues while using the FOV MOD, please consider join our [discord server](https://discord.com/invite/m6FJyGSanf ) and reporting it!
+If you encounter any bugs or issues while using the FOV MOD, please consider joining our [discord server](https://discord.com/invite/m6FJyGSanf ) and reporting it!
 
 ## Contributions
 
