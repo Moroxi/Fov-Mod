@@ -31,11 +31,15 @@ The FOV MOD is compatible with the latest version of Venge.io. It has been teste
 
 ## Bugs and Issues
 
-If you encounter any bugs or issues while using the FOV MOD, please open a new issue on the Issues tab of this repository. Please provide as much detail as possible about the issue you are experiencing, including steps to reproduce the issue and any error messages you receive.
+If you encounter any bugs or issues while using the FOV MOD, please consider join our [discord server](https://discord.com/invite/m6FJyGSanf ) and reporting it!
 
 ## Contributions
 
 Contributions to the FOV MOD are welcome and encouraged. If you have any ideas or suggestions for improving the mod, please open a new issue or submit a pull request.
+
+## Discord Server
+
+https://discord.com/invite/m6FJyGSanf 
 
 ## Venge T.O.S
 
