@@ -1,8 +1,8 @@
-# Fov Mod - Competitive Performance Enhancement Mod for Venge.io
+# Fov Mod - Competitive Performance Enhancement Mod for Venge.io created by Moroxi:
 
 FOV MOD is a performance enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smoother textures. 
 
-## Features
+## Features:
 
 The FOV MOD includes the following features:
 
@@ -15,7 +15,7 @@ The FOV MOD includes the following features:
 - Every Map is optimized using smooth textures and removed assets! 
 
 
-## Installation
+## Installation:
 
 To install the FOV MOD for Venge.io, follow these steps:
 
@@ -25,23 +25,23 @@ To install the FOV MOD for Venge.io, follow these steps:
 4. Replace the existing folders with the corresponding folders from the FOV MOD you downloaded.
 5. Start the game and enjoy the improved performance in competitive matches and a lag-free experience.
 
-## Compatibility
+## Compatibility:
 
 The FOV MOD is compatible with the latest version of Venge.io. It has been tested on Windows 10/11 and may also work on other operating systems.
 
-## Bugs and Issues
+## Bugs and Issues:
 
 If you encounter any bugs or issues while using the FOV MOD, please consider joining our [discord server](https://discord.com/invite/m6FJyGSanf ) and reporting it!
 
-## Contributions
+## Contributions:
 
 Contributions to the FOV MOD are welcome and encouraged. If you have any ideas or suggestions for improving the mod, please open a new issue or submit a pull request.
 
-## Discord Server
+## Discord Server:
 
 https://discord.com/invite/m6FJyGSanf 
 
-## Venge T.O.S
+## Venge T.O.S:
 
 The FOV MOD is released under the [Venge T.O.S](https://venge.io/tos.txt). 
 
