@@ -2,6 +2,8 @@
 
 FOV MOD is a performance enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smoother textures. 
 
+<img alt=[![Downloads](https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg)](https://github.com/Moroxi/Fov-Mod/releases)
+
 ## Features:
 
 The FOV MOD includes the following features:
