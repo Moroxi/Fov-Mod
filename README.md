@@ -1,6 +1,6 @@
-# Fov Mod - Competitive Performance Enhancement Mod for Venge.io created by Moroxi:
+# Fov Mod - Competitive Performance & Latency Enhancement Mod for Venge.io created by Moroxi:
 
-FOV MOD is a performance enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smoother textures. 
+FOV MOD is a performance & latency enhancement mod for Venge.io, a popular first-person shooter game. The mod is designed to improve the game's performance in competitive matches and provide a lag-free experience by removing certain assets and using smoother textures. 
 
 [![Downloads](https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg)](https://github.com/Moroxi/Fov-Mod/releases)
 
