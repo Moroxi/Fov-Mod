@@ -15,7 +15,7 @@ The FOV MOD includes the following features:
 - Custom Gun Skins
 - Custom Gun Sounds for Long Gaming Sessions
 - Every Map is optimized using smooth textures and removed assets!
-- Removes certain sounds because they were loud and annoying (Better for gaming experience & long gaming sessions)
+- Removes/Optimize certain sounds because they were loud and annoying (Better for gaming experience & long gaming sessions)
 - Added Sends a random message from a set of declared messages (Which u can edit yourself) into the in-game chat when the [ ` ] key is pressed. 
 
 
