@@ -22,6 +22,7 @@ The FOV MOD includes the following features:
 ## Installation:
 
 Download the latest version from [Release](https://github.com/Moroxi/Fov-Mod/releases/latest)
+
 To install the FOV MOD for Venge.io, follow these steps:
 
 1. Download the latest version of the mod.
