@@ -43,6 +43,7 @@ The Fov Mod is a performance & latency enhancement mod for Venge.io, a popular f
 - Pleasant and satisfying sound effects for long gaming sessions
 - A very unique black & blue charfix for accuracy
 - Lots of Assets are removed for low latency
+- Custom Weapon Skins
 
 ## Installation  <a name="installation"></a>
 
