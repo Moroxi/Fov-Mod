@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Moroxi/Fov-Mod?style=for-the-badge">
-  <a href="https://github.com/Moroxi/Fov-Mod/releases">
+  <a href="https://github.com/Moroxi/Fov-Mod">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
   </a>
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Moroxi/Fov-Mod.svg?style=for-the-badge">
@@ -37,11 +37,11 @@ The Fov Mod is a performance & latency enhancement mod for Venge.io, a popular f
 
 ## Features  <a name="features"></a>
 
-- The mod is perfect/best for low end devices
+- This mod is best for low-end devices
 - Highly Optimised game asset models for a significant performance/FPS boost
 - Clean textures for great visibility
 - Pleasant and satisfying sound effects for long gaming sessions
-- A very unique black & blue charfix to accuracy
+- A very unique black & blue charfix for accuracy
 - Lots of Assets are removed for low latency
 
 ## Installation  <a name="installation"></a>
@@ -56,15 +56,15 @@ The Fov Mod is a performance & latency enhancement mod for Venge.io, a popular f
 
 ### 1. Is the mod safe to use?
 
-The mod is totally safe to use as a casual, general or competitive mod alike. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
+The mod is safe to use as a casual, general, or competitive mod. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
 
-### 4. Can I use this mod's assets in my own mod? And can I release variants of the mod thus created?
+### 4. Can I use this mod's assets in my mod? And can I release variants of the mod thus created?
 
-The mod as a whole and all its contained files, including 3d assets, images, sounds and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your own variants or projects. Read the license for further information regarding the same.
+The mod as a whole and all its contained files, including 3d assets, images, sounds, and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your variants or projects. Read the license for further information regarding the same.
 
 ## Feedback  <a name="feedback"></a>
 
-Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
+Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues, and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
 <p align="center">
   <a href="https://discord.com/invite/m6FJyGSanf">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
