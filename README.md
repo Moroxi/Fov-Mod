@@ -75,7 +75,6 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 This mod was developed by Moroxi:
 
-- **Moroxi**
 <p align="center"><a href="https://github.com/Moroxi">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
