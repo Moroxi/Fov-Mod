@@ -87,10 +87,10 @@ This mod was developed by Moroxi:
 ## Acknowledgements  <a name="acknowledgments"></a>
 
 - The following tools and languages were used to develop this mod: <p align="center">
-  <img alt="Pixlr" src="https://cdn.discordapp.com/attachments/1230066104521592884/1230786439894142996/pixlr-logo.png?ex=66349632&is=66222132&hm=d43c9f126f9896de1d51978428723993fcb47afd97b077da28ad45593a996834&?style=for-the-badge&logo=pixlr.com"
+  <img alt="Pixlr" src="https://cdn.discordapp.com/attachments/1230066104521592884/1230786439894142996/pixlr-logo.png?ex=66349632&is=66222132&hm=d43c9f126f9896de1d51978428723993fcb47afd97b077da28ad45593a996834&?style=for-the-badge&logo=pixlr.com">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
 </p>
 
 ## License  <a name="license"></a>
