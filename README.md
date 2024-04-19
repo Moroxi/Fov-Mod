@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Moroxi/Fov-Mod?style=for-the-badge">
-  <a href="https://github.com/Moroxi/Fov-Mod">
+  <a href="https://github.com/Moroxi/Fov-Mod/releases">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
   </a>
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Moroxi/Fov-Mod.svg?style=for-the-badge">
@@ -37,7 +37,7 @@ The Fov Mod is a performance & latency enhancement mod for Venge.io, a popular f
 
 ## Features  <a name="features"></a>
 
-- This mod is best for low-end devices
+- This mod is best for low-end devices. because a lot of intangible distracting assets are removed and use smoother textures for tangible assets.
 - Highly Optimised game asset models for a significant performance/FPS boost
 - Clean textures for great visibility
 - Pleasant and satisfying sound effects for long gaming sessions
