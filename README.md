@@ -87,8 +87,7 @@ This mod was developed by Moroxi:
 ## Acknowledgements  <a name="acknowledgments"></a>
 
 - The following tools and languages were used to develop this mod: <p align="center">
-  <img alt="Pixlr" src="https://img.shields.io/badge/PIXLR-%233EBBDF?style=for-the-badge&logo=pixlr&logoColor=white&color=black
-">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PIXLR-%233EBBDF?style=for-the-badge&logo=pixlr&logoColor=white&color=black">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
