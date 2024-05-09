@@ -67,14 +67,14 @@ The mod as a whole and all its contained files, including 3d assets, images, sou
 
 Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues, and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
 <p align="center">
-  <a href="https://discord.com/invite/m6FJyGSanf">
+  <a href="https://discord.gg/sT8b5r9vwB">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
 ## Contact  <a name="contact"></a>
 
-This mod was developed by **Moroxi**:
+** Moroxi ** developed this mod:
 
 <p align="center"><a href="https://github.com/Moroxi">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
