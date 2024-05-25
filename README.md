@@ -98,5 +98,5 @@ Moroxi developed this mod:
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for details.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1195653788820836432/1231123905498976276/Fov.gif?ex=6635d07c&is=66235b7c&hm=add5c94b7416b4361d400ba4efb0ee1003340742ce054d20fbc7df9d9c59b117&"autoplay loop>
+  <img src="https://files.catbox.moe/vhshj0.gif"autoplay loop>
 </p>
