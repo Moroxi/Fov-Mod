@@ -72,7 +72,7 @@ Feedback from the user community goes a long way in polishing the mod's experien
 ## Contact  <a name="contact"></a>
 
 <p align="center">
-  For any queries or further information, you can reach out to me on Discord:
+  For any queries or further information, you can reach out to us on Discord:
   <br><br>
   <a href="https://discord.com/users/725607271945732157">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -96,3 +96,7 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 <p align="center">
   <img src="https://iili.io/d98Aeyl.gif" alt="GIF" autoplay loop>
 </p>
+
+<h2 align="center" style="font-size: 2em; color: #5865F2; margin-top: 50px;">
+  "A Mod for my Low-End Device Brothers."
+</h2>
