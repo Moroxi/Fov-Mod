@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=flat&label=VIEWS&abbreviated=true">
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
   
 </p>
 
