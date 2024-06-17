@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/jw9wes.png" width="175" alt="ATM-Logo.png">
+  <img src="https://iili.io/d98K2XR.png" width="175" alt="ATM-Logo.png">
 </p>
 
 <h1 align="center">Fov Mod</h1>
