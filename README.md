@@ -94,5 +94,5 @@ Moroxi developed this mod:
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for details.
 
 <p align="center">
-  <img src="https://files.catbox.moe/vhshj0.gif"autoplay loop>
+  <img src="https://iili.io/d98Aeyl.gif"autoplay loop>
 </p>
