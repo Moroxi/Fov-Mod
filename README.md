@@ -72,6 +72,8 @@ Feedback from the user community goes a long way in polishing the mod's experien
 ## Contact  <a name="contact"></a>
 
 <p align="center">
+  For any queries or further information, you can reach out to us on Discord:
+  <br><br>
   <a href="https://discord.com/users/725607271945732157">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
