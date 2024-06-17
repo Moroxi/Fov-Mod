@@ -29,11 +29,11 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 ![Mistle](https://files.catbox.moe/f4osi9.png)
 ![Temple](https://files.catbox.moe/0gr2k5.png)
 ![Sandstormblitz](https://files.catbox.moe/f573id.png)
-![Main Menu](https://iili.io/d98fjn4.png)
+![Main Menu](https://iili.io/d98B8hb.png)
 
 ## Features  <a name="features"></a>
 
-- This mod is best for low-end devices. because a lot of intangible distracting assets are removed and use smoother textures for tangible assets.
+- This mod is best for low-end devices because many intangible distracting assets are removed and use smoother textures for tangible assets.
 - Highly Optimised game asset models for a significant performance/FPS boost
 - Clean textures for great visibility
 - Pleasant and satisfying sound effects for long gaming sessions
@@ -45,7 +45,7 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 
 - Download the latest release of the mod [here](https://github.com/Moroxi/Fov-Mod/releases)
 - Unzip the downloaded folder and copy the subfolder titled "Venge Client"
-- Navigate to your PC's Documents folder and ensure that there isn't already a folder named Venge Client in it. If there is one, delete it prior to attempting the next step
+- Navigate to your PC's Documents folder and ensure that there isn't already a folder named Venge Client in it. If there is one, delete it before attempting the next step
 - Paste the copied Venge Client folder here
 - Launch Venge Client. The mod has been applied successfully
 
@@ -55,7 +55,7 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 
 The mod is safe to use as a casual, general, or competitive mod. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
 
-### 4. Can I use this mod's assets in my mod? And can I release variants of the mod thus created?
+### 4. Can I use this mod's assets? And can I release variants of the mod thus created?
 
 The mod as a whole and all its contained files, including 3d assets, images, sounds, and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your variants or projects. Read the license for further information regarding the same.
 
