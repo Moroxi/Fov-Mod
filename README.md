@@ -27,7 +27,7 @@
 
 The Fov Mod is a performance and latency enhancement modification for Venge.io, a popular first-person shooter game. Designed to improve performance and reduce latency in competitive matches, the mod removes certain assets and utilizes smoother textures to provide a lag-free experience.
 
-![Sierra](https://files.catbox.moe/tmlobo.png)
+[Sierra](https://files.catbox.moe/tmlobo.png)
 ![Xibalba](https://files.catbox.moe/ydp29m.png)
 ![Tundra](https://files.catbox.moe/nwxycy.png)
 ![Mistle](https://files.catbox.moe/f4osi9.png)
