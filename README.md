@@ -72,12 +72,8 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 ## Contact  <a name="contact"></a>
 
-Moroxi developed this mod:
-
-<p align="center"><a href="https://github.com/Moroxi">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/725607271945732157">
+ 
+ href="https://discord.com/users/725607271945732157">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
