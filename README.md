@@ -5,11 +5,7 @@
 <h1 align="center">Fov Mod</h1>
 
 <p align="center">
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Moroxi/Fov-Mod?style=for-the-badge">
-  <a href="https://github.com/Moroxi/Fov-Mod/releases">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
-  </a>
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Moroxi/Fov-Mod.svg?style=for-the-badge">
 </p>
 
 # Table of Contents
