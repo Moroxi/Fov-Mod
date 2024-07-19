@@ -96,7 +96,3 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 <p align="center">
   <img src="https://iili.io/d98Aeyl.gif" alt="GIF" autoplay loop>
 </p>
-
-<h2 align="center" style="font-size: 2em; color: #5865F2; margin-top: 50px;">
-  "A Mod for All My Low-End Device Brothers"
-</h2>
