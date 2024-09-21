@@ -28,7 +28,7 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 ![Xibalba](https://iili.io/d98utBn.png)
 ![Tundra](https://iili.io/d98AdIS.png)
 ![Mistle](https://iili.io/d98zu0x.png)
-![Main Menu](https://iili.io/d98B8hb.png)
+![Main Menu](https://iili.io/dicHWdP.png)
 
 ## Features  <a name="features"></a>
 
