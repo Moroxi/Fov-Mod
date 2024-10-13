@@ -15,7 +15,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [FAQ](#faq)
-- [Feedback](#feedback)
+- [Feedback & Contact](#feedback&contact)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -58,21 +58,11 @@ The mod is safe to use as a casual, general, or competitive mod. It complies wit
 
 The mod as a whole and all its contained files, including 3D assets, images, sounds, and scripts are licensed under the CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your variants or projects. Read the license for further information regarding the same.
 
-## Feedback  <a name="feedback"></a>
+## Feedback & Contact  <a name="feedback&contact"></a>
 
-Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues, and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
+Your feedback is essential in improving the mod experience. To submit suggestions, report issues, or ask questions, join our official Discord server here:
 <p align="center">
   <a href="https://discord.gg/sT8b5r9vwB">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
-## Contact  <a name="contact"></a>
-
-<p align="center">
-  For any queries or further information, you can reach out to us on Discord:
-  <br><br>
-  <a href="https://discord.com/users/725607271945732157">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
