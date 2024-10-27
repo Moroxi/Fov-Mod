@@ -43,7 +43,7 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 
 ## Installation  <a name="installation"></a>
 
-- Follow this tutorial = https://www.youtube.com/watch?v=rjoybp7CKPs&t=3s
+- Follow this tutorial = https://www.youtube.com/watch?v=rjoybp7CKPs
 
 ## FAQ  <a name="faq"></a>
 
