@@ -43,11 +43,7 @@ The Fov Mod is a performance and latency enhancement modification for Venge.io, 
 
 ## Installation  <a name="installation"></a>
 
-- Download the latest release of the mod [here](https://github.com/Moroxi/Fov-Mod/releases).
-- Unzip the downloaded folder and copy the subfolder titled "Venge Client".
-- Navigate to your PC's Documents folder and ensure that there isn't already a folder named "Venge Client" in it. If there is one, delete it before attempting the next step.
-- Paste the copied "Venge Client" folder here.
-- Launch Venge Client. The mod has been applied successfully.
+- Follow this tutorial = https://www.youtube.com/watch?v=rjoybp7CKPs&t=3s
 
 ## FAQ  <a name="faq"></a>
 
