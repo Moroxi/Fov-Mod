@@ -7,6 +7,9 @@
 <p align="center">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
   <img alt="Views" src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
+</p>
+
+<p align="center">
   <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FMoroxi%2FFov-Mod%2Freleases%2Flatest">
 </p>
 
