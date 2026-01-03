@@ -24,7 +24,6 @@
 - [Install](#install)
 - [FAQ](#faq)
 - [Feedback & Contact](#feedback&contact)
-- [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
