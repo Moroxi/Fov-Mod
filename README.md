@@ -101,6 +101,6 @@ The following tools and languages were used to develop this mod:
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for
 details.
 
-<p align="center">
+## <p align="center">
   <img src="https://iili.io/d98Aeyl.gif" alt="GIF" autoplay loop>
 </p>
