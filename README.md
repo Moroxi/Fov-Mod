@@ -67,12 +67,12 @@ The following images show how maps and the main menu appear after applying the m
 
 ## FAQ <a name="faq"></a>
 
-### Q. Is the mod safe to use?
+### Q Is the mod safe to use?
 
 The mod is safe to use as a casual, general, or competitive mod. To the best of our knowledge, this mod complies with
 the Venge.io Terms of Service and does not provide unfair gameplay advantages.
 
-### Q. Can I use this mod's assets? And can I release variants of the mod thus created?
+### Q Can I use this mod's assets? And can I release variants of the mod thus created?
 
 The mod as a whole and all its contained files, including 3D assets, images, sounds, and scripts are licensed under the
 CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of
