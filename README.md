@@ -1,24 +1,20 @@
 <p align="center">
-  <img src="https://iili.io/d98K2XR.png" width="175" alt="Logo">
+    <img src="https://iili.io/d98K2XR.png" width="175" alt="Logo">
 </p>
 
 <h1 align="center">Fov Mod</h1>
 
 <p align="center">
-  <img alt="GitHub Downloads"
-    src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
-  <img alt="Views"
-    src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
+    <img alt="GitHub Downloads"
+        src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
+    <img alt="Views"
+        src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
-    <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://iili.io/d98Aeyl.gif" alt="GIF" autoplay loop>
+    <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
+        <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge">
+    </a>
 </p>
 
 # Table of Contents
@@ -80,23 +76,23 @@ information regarding the same.
 Your feedback is essential in improving the mod experience. To submit suggestions, report issues, or ask questions, join
 our official Discord server here:
 <p align="center">
-  <a href="https://discord.gg/sT8b5r9vwB">
-    <img alt="Discord"
-      src="https://img.shields.io/discord/1195216958782701578?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=5865F2">
-  </a>
+    <a href="https://discord.gg/sT8b5r9vwB">
+        <img alt="Discord"
+            src="https://img.shields.io/discord/1195216958782701578?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=5865F2">
+    </a>
 </p>
 
 ## Acknowledgments <a name="acknowledgments"></a>
 
 The following tools and languages were used to develop this mod:
 <p align="center">
-  <img alt="Static Badge"
-    src="https://img.shields.io/badge/PIXLR-%233EBBDF?style=for-the-badge&logo=pixlr&logoColor=white&color=black">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css">
-  <img alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
-  <img alt="Canva" src="https://img.shields.io/badge/CANVA-green?style=for-the-badge&logo=canva&labelColor=black">
+    <img alt="Static Badge"
+        src="https://img.shields.io/badge/PIXLR-%233EBBDF?style=for-the-badge&logo=pixlr&logoColor=white&color=black">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css">
+    <img alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
+    <img alt="Canva" src="https://img.shields.io/badge/CANVA-green?style=for-the-badge&logo=canva&labelColor=black">
 
 </p>
 
