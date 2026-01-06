@@ -80,6 +80,7 @@ our official Discord server here:
     <img alt="Discord"
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  https://shields.fly.dev/discord/1195216958782701578?color=5865f2&label=Discord&logo=Discord&style=for-the-badge
 </p>
 
 ## Acknowledgments <a name="acknowledgments"></a>
