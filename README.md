@@ -53,7 +53,7 @@ for tangible assets.
 
 ## Install <a name="install"></a>
 
-- [Installation Tutorial](https://www.youtube.com/watch?v=rjoybp7CKPs)
+- https://www.youtube.com/watch?v=rjoybp7CKPs
 
 ## FAQ <a name="faq"></a>
 
