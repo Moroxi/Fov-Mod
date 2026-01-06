@@ -53,7 +53,9 @@ for tangible assets.
 
 ## Install <a name="install"></a>
 
-- https://www.youtube.com/watch?v=rjoybp7CKPs
+- [![Watch the video](https://img.youtube.com/vi/rjoybp7CKPs/maxresdefault.jpg)](https://youtu.be/rjoybp7CKPs)
+
+### [Installation Tutorial](https://youtu.be/rjoybp7CKPs)
 
 ## FAQ <a name="faq"></a>
 
