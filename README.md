@@ -76,11 +76,8 @@ information regarding the same.
 Your feedback is essential in improving the mod experience. To submit suggestions, report issues, or ask questions, join
 our official Discord server here:
 <p align="center">
-  <a href="https://discord.gg/sT8b5r9vwB">
     <img alt="Discord"
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  https://shields.fly.dev/discord/1195216958782701578?color=5865f2&label=Discord&logo=Discord&style=for-the-badge
+      src="https://img.shields.io/discord/1195216958782701578?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=5865F2&link=https%3A%2F%2Fdiscord.gg%2FsT8b5r9vwB">
 </p>
 
 ## Acknowledgments <a name="acknowledgments"></a>
