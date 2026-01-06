@@ -2,7 +2,7 @@
     <img src="https://iili.io/d98K2XR.png" width="175" alt="Fov_Logo.png">
 </p>
 
-<h1 align="center">FOV Mod</h1>
+<h1 align="center">Fov Mod</h1>
 
 <p align="center">
     <img alt="GitHub Downloads"
@@ -31,7 +31,7 @@
 
 ## Description <a name="description"></a>
 
-The FOV Mod is a performance and responsiveness enhancement modification for Venge.io, a popular first-person shooter
+The Fov Mod is a performance and responsiveness enhancement modification for Venge.io, a popular first-person shooter
 game.
 Designed to improve performance and responsiveness in competitive matches, the mod removes certain assets and utilizes
 smoother textures.
