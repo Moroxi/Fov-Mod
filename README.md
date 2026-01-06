@@ -36,7 +36,7 @@ game.
 Designed to improve performance and responsiveness in competitive matches, the mod removes certain assets and utilizes
 smoother textures.
 
-The following images show how maps and the main menu appear after applying the mod.
+The following images show how maps and the main menu appear after applying the mod:
 
 ![FOV_Sierra.png](https://iili.io/di1hW6N.png)
 ![FOV_Xibalba.png](https://iili.io/di1jeUP.png)
