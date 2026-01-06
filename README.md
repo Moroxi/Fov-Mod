@@ -1,14 +1,16 @@
 <p align="center">
-    <img src="https://iili.io/d98K2XR.png" width="175" alt="Logo">
+    <img src="https://iili.io/d98K2XR.png" width="175" alt="Fov_Logo.png">
 </p>
 
-<h1 align="center">Fov Mod</h1>
+<h1 align="center">FOV Mod</h1>
 
 <p align="center">
     <img alt="GitHub Downloads"
         src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
     <img alt="Views"
         src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
+    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/moroxi/Fov-Mod.svg?style=for-the-badge">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/moroxi/Fov-Mod.svg?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -29,27 +31,33 @@
 
 ## Description <a name="description"></a>
 
-The Fov Mod is a performance and latency enhancement modification for Venge.io, a popular first-person shooter game.
-Designed to improve performance and reduce latency in competitive matches, the mod removes certain assets and utilizes
-smoother textures to provide a lag-free experience.
+The FOV Mod is a performance and responsiveness enhancement modification for Venge.io, a popular first-person shooter
+game.
+Designed to improve performance and responsiveness in competitive matches, the mod removes certain assets and utilizes
+smoother textures.
 
-![Sierra](https://iili.io/di1hW6N.png)
-![Xibalba](https://iili.io/di1jeUP.png)
-![Tundra](https://iili.io/di1wQCx.png)
-![Mistle](https://iili.io/di1NAG4.png)
-![Main Menu](https://iili.io/2fAYOiJ.png)
-![Banner](https://iili.io/23UykSS.png)
+The following images show how maps and the main menu appear after applying the mod.
+
+![FOV_Sierra.png](https://iili.io/di1hW6N.png)
+![FOV_Xibalba.png](https://iili.io/di1jeUP.png)
+![FOV_Tundra.png](https://iili.io/di1wQCx.png)
+![FOV_Mistle.png](https://iili.io/di1NAG4.png)
+![FOV_Main_Menu.png](https://iili.io/2fAYOiJ.png)
+![FOV_Banner.png](https://iili.io/23UykSS.png)
 
 ## Features <a name="features"></a>
 
-- This mod is best for low-end devices because many intangible distracting assets are removed and use smoother textures
-for tangible assets.
-- Highly Optimized game asset models for a significant performance/FPS boost.
-- Clean textures for great visibility.
-- Pleasant and satisfying sound effects for long gaming sessions.
-- A very unique black & blue charfix for accuracy.
-- Lots of assets are removed for low latency.
-- Custom weapon skins.
+- Simplified textures to improve FPS and frame stability
+
+- Removal of several non-essential visual assets to reduce rendering overhead
+
+- Clean, high-contrast textures for improved visibility
+
+- Distinct black & blue character fix
+
+- Audio tweaks designed for longer, fatigue-free sessions
+
+- Designed specifically for low-end and performance-constrained devices
 
 ## Install <a name="install"></a>
 
@@ -59,12 +67,12 @@ for tangible assets.
 
 ## FAQ <a name="faq"></a>
 
-### 1. Is the mod safe to use?
+### Q. Is the mod safe to use?
 
-The mod is safe to use as a casual, general, or competitive mod. It complies with the Venge TOS fully and doesn't
-provide unfair vantage to its users.
+The mod is safe to use as a casual, general, or competitive mod. To the best of our knowledge, this mod complies with
+the Venge.io Terms of Service and does not provide unfair gameplay advantages.
 
-### 4. Can I use this mod's assets? And can I release variants of the mod thus created?
+### Q. Can I use this mod's assets? And can I release variants of the mod thus created?
 
 The mod as a whole and all its contained files, including 3D assets, images, sounds, and scripts are licensed under the
 CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of
@@ -88,7 +96,7 @@ The following tools and languages were used to develop this mod:
 <p align="center">
     <img alt="Static Badge"
         src="https://img.shields.io/badge/PIXLR-%233EBBDF?style=for-the-badge&logo=pixlr&logoColor=white&color=black">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
     <img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
