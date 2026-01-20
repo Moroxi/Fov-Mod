@@ -40,6 +40,7 @@ The following images show how maps and the main menu appear after applying the m
 
 ![FOV_Sierra.png](https://iili.io/di1hW6N.png)
 ![FOV_Xibalba.png](https://iili.io/di1jeUP.png)
+![FOV_Scraper.png](https://iili.io/frKZUEQ.png)
 ![FOV_Tundra.png](https://iili.io/di1wQCx.png)
 ![FOV_Mistle.png](https://iili.io/di1NAG4.png)
 ![FOV_Settings.png](https://iili.io/frKcgUb.png)
