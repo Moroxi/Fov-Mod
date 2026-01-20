@@ -61,6 +61,8 @@ The following images show how maps and the main menu appear after applying the m
 
 - Designed specifically for low-end and performance-constrained devices
 
+- Fov Mod Settings [F8]
+
 ## Install <a name="install"></a>
 
 [![Watch the video](https://img.youtube.com/vi/rjoybp7CKPs/maxresdefault.jpg)](https://youtu.be/rjoybp7CKPs)
