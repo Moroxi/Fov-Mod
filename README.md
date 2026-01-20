@@ -103,6 +103,7 @@ The following tools and languages were used to develop this mod:
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
     <img alt="Canva" src="https://img.shields.io/badge/CANVA-green?style=for-the-badge&logo=canva&labelColor=black">
+    <img alt="Photopea" src="https://img.shields.io/badge/Photopea-cyan?style=for-the-badge&logo=photopea">
 
 </p>
 
