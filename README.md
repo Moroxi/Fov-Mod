@@ -25,7 +25,7 @@
 - [Features](#features)
 - [Install](#install)
 - [FAQ](#faq)
-- [Feedback & Contact](#feedback&contact)
+- [Feedback & Contact](#feedback--contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
@@ -33,10 +33,9 @@
 
 The Fov Mod is a performance and responsiveness enhancement modification for Venge.io, a popular first-person shooter
 game.
-Designed to improve performance and responsiveness in competitive matches, the mod removes certain assets and utilizes
-smoother textures.
+Designed to improve performance and responsiveness in competitive matches, the mod removes unnecessary assets and uses optimized textures.
 
-The following images shows how the game appears after applying the mod:
+The following images show how the game appears after applying the mod:
 
 <table>
   <tr>
@@ -67,7 +66,7 @@ The following images shows how the game appears after applying the mod:
 
 ## Features <a name="features"></a>
 
-- Simplified textures to improve FPS and frame stability
+- Simplified textures for higher FPS and stable frame times
 
 - Removal of several non-essential visual assets to reduce rendering overhead
 
@@ -101,7 +100,7 @@ CC-BY Attribution License. As long as you provide appropriate credits and refere
 resources, you're free to use the aforementioned assets in your variants or projects. Read the license for further
 information regarding the same.
 
-## Feedback & Contact <a name="feedback&contact"></a>
+## Feedback & Contact <a name="feedback--contact"></a>
 
 Your feedback is essential in improving the mod experience. To submit suggestions, report issues, or ask questions, join
 our official Discord server here:
