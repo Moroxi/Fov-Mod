@@ -57,9 +57,11 @@ The following images show how the game appears after applying the mod:
   </tr>
   <tr>
     <td align="center"><img src="https://iili.io/di1NAG4.png" alt="FOV_Mistle" width="400"><br><sub><b>Mistle</b></sub></td>
-    <td align="center"><img src="https://iili.io/qT3JW74.png" alt="FOV_SandstormBlitz" width="400"><br><sub><b>SandstormBlitz</b></sub></td>
     <td align="center"><img src="https://iili.io/qIk1j6P.png" alt="FOV_Settings" width="400"><br><sub><b>Fov Settings</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://iili.io/qT3JW74.png" alt="FOV_SandstormBlitz" width="400"><br><sub><b>SandstormBlitz</b></sub></td>
+  </tr>  
 </table>
 
 ## Features <a name="features"></a>
