@@ -39,7 +39,6 @@ smoother textures.
 The following images shows how the game appears after applying the mod:
 
 <table>
-  <!-- Weapon Icons Row -->
   <tr>
     <td align="center"><img src="https://iili.io/qIkzmrl.png" alt="Scar" width="200"/><br><sub><b>Scar</b></sub></td>
     <td align="center"><img src="https://iili.io/qIe9sTP.png" alt="AWP" width="200"/><br><sub><b>AWP</b></sub></td>
@@ -49,21 +48,20 @@ The following images shows how the game appears after applying the mod:
 </table>
 
 <table>
-  <!-- Environment Screenshots Grid -->
   <tr>
-    <td><img src="https://iili.io" alt="FOV_Sierra" width="400"></td>
-    <td><img src="https://iili.io" alt="FOV_Xibalba" width="400"></td>
+    <td><img src="https://iili.io/di1hW6N.png" alt="FOV_Sierra" width="400"></td>
+    <td><img src="https://iili.io/di1jeUP.png" alt="FOV_Xibalba" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://iili.io" alt="FOV_Scraper" width="400"></td>
-    <td><img src="https://iili.io" alt="FOV_Tundra" width="400"></td>
+    <td><img src="https://iili.io/frKZUEQ.png" alt="FOV_Scraper" width="400"></td>
+    <td><img src="https://iili.io/di1wQCx.png" alt="FOV_Tundra" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://iili.io" alt="FOV_Mistle" width="400"></td>
-    <td><img src="https://iili.io" alt="FOV_Settings" width="400"></td>
+    <td><img src="https://iili.io/di1NAG4.png" alt="FOV_Mistle" width="400"></td>
+    <td><img src="https://iili.io/qIk1j6P.png" alt="FOV_Settings" width="400"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://iili.io" alt="FOV_Main_Menu" width="400"></td>
+    <td colspan="2" align="center"><img src="https://iili.io/2fAYOiJ.png" alt="FOV_Main_Menu" width="400"></td>
   </tr>
 </table>
 
