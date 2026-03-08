@@ -36,16 +36,25 @@ game.
 Designed to improve performance and responsiveness in competitive matches, the mod removes certain assets and utilizes
 smoother textures.
 
-The following images show how maps and the main menu appear after applying the mod:
+The following images shows how the game appears after applying the mod:
 
-![FOV_Sierra.png](https://iili.io/di1hW6N.png)
-![FOV_Xibalba.png](https://iili.io/di1jeUP.png)
-![FOV_Scraper.png](https://iili.io/frKZUEQ.png)
-![FOV_Tundra.png](https://iili.io/di1wQCx.png)
-![FOV_Mistle.png](https://iili.io/di1NAG4.png)
-![FOV_Settings.png](https://iili.io/frKcgUb.png)
-![FOV_Main_Menu.png](https://iili.io/2fAYOiJ.png)
-![FOV_Banner.png](https://iili.io/23UykSS.png)
+<table>
+  <tr>
+    <td><img src="https://iili.io/di1hW6N.png" alt="FOV_Sierra" width="400"></td>
+    <td><img src="https://iili.io/di1jeUP.png" alt="FOV_Xibalba" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://iili.io/frKZUEQ.png" alt="FOV_Scraper" width="400"></td>
+    <td><img src="https://iili.io/di1wQCx.png" alt="FOV_Tundra" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://iili.io/di1NAG4.png" alt="FOV_Mistle" width="400"></td>
+    <td><img src="https://iili.io/qIk1j6P.png" alt="FOV_Settings" width="400"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://iili.io/2fAYOiJ.png" alt="FOV_Main_Menu" width="400"></td>
+  </tr>
+</table>
 
 ## Features <a name="features"></a>
 
