@@ -49,16 +49,16 @@ The following images shows how the game appears after applying the mod:
 
 <table>
   <tr>
-    <td><img src="https://iili.io/di1hW6N.png" alt="FOV_Sierra" width="400"><br><sub><b>Sierra</b></sub></td>
-    <td><img src="https://iili.io/di1jeUP.png" alt="FOV_Xibalba" width="400"><br><sub><b>Xibalba</b></sub></td>
+    <td align="center"><img src="https://iili.io/di1hW6N.png" alt="FOV_Sierra" width="400"><br><sub><b>Sierra</b></sub></td>
+    <td align="center"><img src="https://iili.io/di1jeUP.png" alt="FOV_Xibalba" width="400"><br><sub><b>Xibalba</b></sub></td>
   </tr>
   <tr>
-    <td><img src="https://iili.io/frKZUEQ.png" alt="FOV_Scraper" width="400"><br><sub><b>Scraper</b></sub></td>
-    <td><img src="https://iili.io/di1wQCx.png" alt="FOV_Tundra" width="400"><br><sub><b>Tundra</b></sub></td>
+    <td align="center"><img src="https://iili.io/frKZUEQ.png" alt="FOV_Scraper" width="400"><br><sub><b>Scraper</b></sub></td>
+    <td align="center"><img src="https://iili.io/di1wQCx.png" alt="FOV_Tundra" width="400"><br><sub><b>Tundra</b></sub></td>
   </tr>
   <tr>
-    <td><img src="https://iili.io/di1NAG4.png" alt="FOV_Mistle" width="400"><br><sub><b>Mistle</b></sub></td>
-    <td><img src="https://iili.io/qIk1j6P.png" alt="FOV_Settings" width="400"><br><sub><b>Fov Settings</b></sub></td>
+    <td align="center"><img src="https://iili.io/di1NAG4.png" alt="FOV_Mistle" width="400"><br><sub><b>Mistle</b></sub></td>
+    <td align="center"><img src="https://iili.io/qIk1j6P.png" alt="FOV_Settings" width="400"><br><sub><b>Fov Settings</b></sub></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://iili.io/2fAYOiJ.png" alt="FOV_Main_Menu" width="400"><br><sub><b>Main Menu</b></sub></td>
