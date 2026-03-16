@@ -60,7 +60,10 @@ The following images show how the game appears after applying the mod:
     <td align="center"><img src="https://iili.io/qT3JW74.png" alt="FOV_SandstormBlitz" width="400"><br><sub><b>SandstormBlitz</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://iili.io/qM6CnpV.png" alt="FOV_Menu" width="400"><br><sub><b>Fov Settings</b></sub></td>
+    <td align="center"><img src="https://iili.io/qMQvqKJ.png" alt="FOV_Temple" width="400"><br><sub><b>Temple</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://iili.io/qM6CnpV.png" alt="FOV_Menu" width="400"><br><sub><b>Fov Menu</b></sub></td>
   </tr>  
 </table>
 
