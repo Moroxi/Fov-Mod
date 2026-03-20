@@ -16,6 +16,7 @@
 <p align="center">
     <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
         <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge">
+        ![License](https://img.shields.io/badge/license-Proprietary-red)
     </a>
 </p>
 
@@ -131,5 +132,3 @@ The following tools and languages were used to develop this mod:
 
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for
 details.
-
-![License](https://img.shields.io/badge/license-Proprietary-red)
