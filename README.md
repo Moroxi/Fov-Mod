@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
         <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge">
-        ![License](https://img.shields.io/badge/license-Proprietary-red)
+        <img alt="LICENSE" src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge">
     </a>
 </p>
 
