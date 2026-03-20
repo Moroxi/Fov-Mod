@@ -29,7 +29,6 @@
 - [FAQ](#faq)
 - [Feedback & Contact](#feedback--contact)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Description <a name="description"></a>
 
@@ -96,12 +95,11 @@ The following images show how the game appears after applying the mod:
 The mod is safe to use as a casual, general, or competitive mod. To the best of our knowledge, this mod complies with
 the Venge.io Terms of Service and does not provide unfair gameplay advantages.
 
-### Q Can I use this mod's assets? And can I release variants of the mod thus created?
+### Q: Can I use this mod's assets or release variants?
 
-The mod as a whole and all its contained files, including 3D assets, images, sounds, and scripts are licensed under the
-CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of
-resources, you're free to use the aforementioned assets in your variants or projects. Read the license for further
-information regarding the same.
+No. This mod and all its contained files, including scripts, assets, and resources, are proprietary.
+You may **not** redistribute, rebrand, resell, or create derivatives of this mod without explicit
+written permission from the author (Moroxi).
 
 ## Feedback & Contact <a name="feedback--contact"></a>
 
@@ -128,8 +126,3 @@ The following tools and languages were used to develop this mod:
     <img alt="Photopea" src="https://img.shields.io/badge/Photopea-cyan?style=for-the-badge&logo=photopea">
 
 </p>
-
-## License <a name="license"></a>
-
-This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for
-details.
