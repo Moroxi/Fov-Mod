@@ -131,3 +131,5 @@ The following tools and languages were used to develop this mod:
 
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for
 details.
+
+![License](https://img.shields.io/badge/license-Proprietary-red)
