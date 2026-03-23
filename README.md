@@ -78,13 +78,15 @@ The following images show how the game appears after applying the mod:
 
 - Clean, high-contrast textures for improved visibility
 
-- Distinct black & blue character fix
+- Distinct black & blue charfix, Custom Charfix is also available changes according to the Map!
 
 - Audio tweaks designed for longer, fatigue-free sessions
 
 - Designed specifically for low-end and performance-constrained devices
 
 - Fov Mod Settings [F8]
+
+- Fov Changelog [F1]
 
 ## Install <a name="install"></a>
 
