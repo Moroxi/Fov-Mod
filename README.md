@@ -64,6 +64,10 @@ The following images show how the game appears after applying the mod:
     <td align="center"><img src="https://iili.io/qMQvqKJ.png" alt="FOV_Temple" width="400"><br><sub><b>Temple</b></sub></td>
     <td align="center"><img src="https://iili.io/qU85K67.png" alt="FOV_Menu" width="400"><br><sub><b>Fov Menu</b></sub></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://iili.io/qU8QOdv.png" alt="FOV_Settings" width="400"><br><sub><b>Fov Settings</b></sub></td>
+    <td align="center"><img src="https://iili.io/qU8pwrX.png" alt="FOV_Changelog" width="400"><br><sub><b>Fov Changelog</b></sub></td>
+  </tr>
 </table>
 
 ## Features <a name="features"></a>
