@@ -8,6 +8,7 @@
     <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
     <img alt="GitHub Downloads"
         src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
+    </a>
     <img alt="Views"
         src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
 </p>
