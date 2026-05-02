@@ -5,18 +5,11 @@
 <h1 align="center">Fov Mod</h1>
 
 <p align="center">
+    <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
     <img alt="GitHub Downloads"
         src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
     <img alt="Views"
         src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
-</p>
-
-<p align="center">
-    <a href="https://github.com/Moroxi/Fov-Mod/releases/latest">
-        <img alt="Download Here" src="https://img.shields.io/badge/Download_Here-red?style=for-the-badge">
-    <a href="https://github.com/Moroxi/Fov-Mod/blob/main/LICENSE">
-        <img alt="LICENSE" src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge">
-    </a>
 </p>
 
 # Table of Contents
