@@ -9,8 +9,6 @@
         src="https://img.shields.io/github/downloads/Moroxi/Fov-Mod/total.svg?style=for-the-badge">
     <img alt="Views"
         src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/moroxi/Fov-Mod.svg?style=for-the-badge">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/moroxi/Fov-Mod.svg?style=for-the-badge">
 </p>
 
 <p align="center">
