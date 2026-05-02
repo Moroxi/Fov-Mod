@@ -13,12 +13,6 @@
         src="https://komarev.com/ghpvc/?username=Fov-Mod&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
 </p>
 
-<p align="center">
-    <a href="https://github.com/Moroxi/Fov-Mod/blob/main/LICENSE">
-        <img alt="LICENSE" src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge">
-    </a>
-</p>
-
 # Table of Contents
 
 - [Description](#description)
